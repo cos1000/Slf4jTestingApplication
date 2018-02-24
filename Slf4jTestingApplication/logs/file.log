@@ -1,0 +1,10 @@
+2018-02-24 17:39:14,550 ERROR c.m.s.AppLogger [main] This is Error Log.
+2018-02-24 17:39:14,574 WARN c.m.s.AppLogger [main] This is Warning Log.
+2018-02-24 17:39:14,576 INFO c.m.s.AppLogger [main] This is Information Log.
+2018-02-24 17:39:14,577 DEBUG c.m.s.AppLogger [main] This is Debug Log.
+2018-02-24 17:39:14,577 TRACE c.m.s.AppLogger [main] This is Trace Log.
+2018-02-24 17:39:14,580 ERROR c.m.s.AppLogger [main] This is Error Log.
+2018-02-24 17:39:14,585 WARN c.m.s.AppLogger [main] This is Warning Log.
+2018-02-24 17:39:14,586 INFO c.m.s.AppLogger [main] This is Information Log.
+2018-02-24 17:39:14,587 DEBUG c.m.s.AppLogger [main] This is Debug Log.
+2018-02-24 17:39:14,587 TRACE c.m.s.AppLogger [main] This is Trace Log.

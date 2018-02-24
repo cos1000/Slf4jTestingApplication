@@ -1,0 +1,8 @@
+[ERROR] 2018-02-24 17:39:14.550 [main] AppLogger - This is Error Log.
+[WARN ] 2018-02-24 17:39:14.574 [main] AppLogger - This is Warning Log.
+[INFO ] 2018-02-24 17:39:14.576 [main] AppLogger - This is Information Log.
+[DEBUG] 2018-02-24 17:39:14.577 [main] AppLogger - This is Debug Log.
+[ERROR] 2018-02-24 17:39:14.580 [main] AppLogger - This is Error Log.
+[WARN ] 2018-02-24 17:39:14.585 [main] AppLogger - This is Warning Log.
+[INFO ] 2018-02-24 17:39:14.586 [main] AppLogger - This is Information Log.
+[DEBUG] 2018-02-24 17:39:14.587 [main] AppLogger - This is Debug Log.
